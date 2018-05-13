@@ -1,0 +1,4 @@
+sat_audio
+sat_down
+sat_ok
+sat_exit

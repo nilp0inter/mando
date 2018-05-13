@@ -1,0 +1,2 @@
+@hdmi1.man
+@fast_chromecast.man

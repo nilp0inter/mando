@@ -1,0 +1,5 @@
+sat_txt 
+sat_right 
+sat_ok 
+sat_down 
+sat_ok

@@ -1,0 +1,11 @@
+tv_0
+!sleep 0.5
+tv_left
+!sleep 0.5
+tv_ok
+!sleep 1
+tv_input
+!sleep 0.5
+tv_right
+!sleep 0.5
+tv_ok
